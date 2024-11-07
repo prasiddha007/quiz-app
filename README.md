@@ -54,4 +54,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 - Thanks to the Open Trivia Database for providing trivia questions.
 - Inspired by various open-source quiz applications.
-```
